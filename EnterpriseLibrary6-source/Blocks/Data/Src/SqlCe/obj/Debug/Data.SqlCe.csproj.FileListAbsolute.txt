@@ -1,0 +1,3 @@
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\Data\Src\SqlCe\obj\Debug\Data.SqlCe.csprojResolveAssemblyReference.cache
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\Data\Src\SqlCe\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Data.SqlCe.Properties.Resources.resources
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\Data\Src\SqlCe\obj\Debug\Data.SqlCe.csproj.GenerateResource.Cache

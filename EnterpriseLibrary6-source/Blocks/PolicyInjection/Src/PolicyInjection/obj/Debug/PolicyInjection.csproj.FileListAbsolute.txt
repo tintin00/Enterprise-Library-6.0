@@ -1,0 +1,9 @@
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.PolicyInjection.xml
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.PolicyInjection.dll
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.PolicyInjection.pdb
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\PolicyInjection\Src\PolicyInjection\obj\Debug\PolicyInjection.csprojResolveAssemblyReference.cache
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\PolicyInjection\Src\PolicyInjection\obj\Debug\Microsoft.Practices.EnterpriseLibrary.PolicyInjection.Configuration.DesignResources.resources
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\PolicyInjection\Src\PolicyInjection\obj\Debug\Microsoft.Practices.EnterpriseLibrary.PolicyInjection.Properties.Resources.resources
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\PolicyInjection\Src\PolicyInjection\obj\Debug\PolicyInjection.csproj.GenerateResource.Cache
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\PolicyInjection\Src\PolicyInjection\obj\Debug\Microsoft.Practices.EnterpriseLibrary.PolicyInjection.dll
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\PolicyInjection\Src\PolicyInjection\obj\Debug\Microsoft.Practices.EnterpriseLibrary.PolicyInjection.pdb

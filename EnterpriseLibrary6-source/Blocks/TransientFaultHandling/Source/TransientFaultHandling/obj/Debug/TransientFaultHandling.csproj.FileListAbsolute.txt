@@ -1,0 +1,2 @@
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\TransientFaultHandling\Source\TransientFaultHandling\obj\Debug\Microsoft.Practices.EnterpriseLibrary.TransientFaultHandling.Properties.Resources.resources
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\TransientFaultHandling\Source\TransientFaultHandling\obj\Debug\TransientFaultHandling.csproj.GenerateResource.Cache

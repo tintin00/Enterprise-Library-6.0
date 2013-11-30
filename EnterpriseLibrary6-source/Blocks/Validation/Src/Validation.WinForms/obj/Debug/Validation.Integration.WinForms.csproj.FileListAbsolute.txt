@@ -1,0 +1,8 @@
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.WinForms.xml
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.WinForms.dll
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.WinForms.pdb
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\Validation\Src\Validation.WinForms\obj\Debug\Validation.Integration.WinForms.csprojResolveAssemblyReference.cache
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\Validation\Src\Validation.WinForms\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.WinForms.Properties.Resources.resources
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\Validation\Src\Validation.WinForms\obj\Debug\Validation.Integration.WinForms.csproj.GenerateResource.Cache
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\Validation\Src\Validation.WinForms\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.WinForms.dll
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\Validation\Src\Validation.WinForms\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.WinForms.pdb

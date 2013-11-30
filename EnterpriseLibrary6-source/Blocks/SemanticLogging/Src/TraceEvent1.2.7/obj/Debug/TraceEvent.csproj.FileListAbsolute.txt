@@ -1,0 +1,6 @@
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\SemanticLogging\Src\TraceEvent1.2.7\bin\Debug\TraceEvent.XML
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\SemanticLogging\Src\TraceEvent1.2.7\bin\Debug\TraceEvent.dll
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\SemanticLogging\Src\TraceEvent1.2.7\bin\Debug\TraceEvent.pdb
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\SemanticLogging\Src\TraceEvent1.2.7\obj\Debug\TraceEvent.csprojResolveAssemblyReference.cache
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\SemanticLogging\Src\TraceEvent1.2.7\obj\Debug\TraceEvent.dll
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\SemanticLogging\Src\TraceEvent1.2.7\obj\Debug\TraceEvent.pdb

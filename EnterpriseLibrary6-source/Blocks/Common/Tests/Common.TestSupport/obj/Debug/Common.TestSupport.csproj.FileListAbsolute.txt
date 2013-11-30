@@ -1,0 +1,15 @@
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\Common\Tests\Common.TestSupport\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.TestSupport.dll
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\Common\Tests\Common.TestSupport\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.TestSupport.pdb
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\Common\Tests\Common.TestSupport\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\Common\Tests\Common.TestSupport\bin\Debug\mscorlib.dll
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\Common\Tests\Common.TestSupport\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\Common\Tests\Common.TestSupport\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\Common\Tests\Common.TestSupport\bin\Debug\ko\mscorlib.resources.dll
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\Common\Tests\Common.TestSupport\bin\Debug\normidna.nlp
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\Common\Tests\Common.TestSupport\bin\Debug\normnfc.nlp
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\Common\Tests\Common.TestSupport\bin\Debug\normnfd.nlp
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\Common\Tests\Common.TestSupport\bin\Debug\normnfkc.nlp
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\Common\Tests\Common.TestSupport\bin\Debug\normnfkd.nlp
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\Common\Tests\Common.TestSupport\obj\Debug\Common.TestSupport.csprojResolveAssemblyReference.cache
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\Common\Tests\Common.TestSupport\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Common.TestSupport.dll
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\Common\Tests\Common.TestSupport\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Common.TestSupport.pdb

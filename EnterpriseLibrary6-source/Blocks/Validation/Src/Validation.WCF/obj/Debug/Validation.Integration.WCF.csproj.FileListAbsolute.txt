@@ -1,0 +1,7 @@
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.WCF.xml
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.WCF.dll
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.WCF.pdb
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\Validation\Src\Validation.WCF\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.WCF.Properties.Resources.resources
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\Validation\Src\Validation.WCF\obj\Debug\Validation.Integration.WCF.csproj.GenerateResource.Cache
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\Validation\Src\Validation.WCF\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.WCF.dll
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\Validation\Src\Validation.WCF\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.WCF.pdb

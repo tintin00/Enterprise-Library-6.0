@@ -1,0 +1,20 @@
+﻿Microsoft.Practices.EnterpriseLibrary.Validation.Integration.WPF.Tests
+
+
+library
+C#
+.cs
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\Validation\Tests\Integration.WPF.Tests\obj\Debug\
+Microsoft.Practices.EnterpriseLibrary.Validation.Integration.WPF.Tests
+none
+false
+DEBUG;TRACE
+
+3-48298821
+
+91343947248
+15-1696236831
+ControlWithExplicitRule.xaml;ControlWithImplicitRule.xaml;ControlWithImplicitRuleWithRulesetAndSource.xaml;
+
+False
+

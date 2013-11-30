@@ -1,0 +1,8 @@
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.xml
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.pdb
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\ExceptionHandling\Src\ExceptionHandling\obj\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Configuration.DesignResources.resources
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\ExceptionHandling\Src\ExceptionHandling\obj\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Properties.Resources.resources
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\ExceptionHandling\Src\ExceptionHandling\obj\Debug\ExceptionHandling.csproj.GenerateResource.Cache
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\ExceptionHandling\Src\ExceptionHandling\obj\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\ExceptionHandling\Src\ExceptionHandling\obj\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.pdb

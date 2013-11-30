@@ -1,0 +1,9 @@
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.SemanticLogging.XML
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.SemanticLogging.dll
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.SemanticLogging.pdb
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\SemanticLogging\Src\SemanticLogging\obj\Debug\SemanticLogging.csprojResolveAssemblyReference.cache
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\SemanticLogging\Src\SemanticLogging\obj\Debug\Microsoft.Practices.EnterpriseLibrary.SemanticLogging.Properties.Resources.resources
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\SemanticLogging\Src\SemanticLogging\obj\Debug\Microsoft.Practices.EnterpriseLibrary.SemanticLogging.SemanticLoggingEventSourceResources.resources
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\SemanticLogging\Src\SemanticLogging\obj\Debug\SemanticLogging.csproj.GenerateResource.Cache
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\SemanticLogging\Src\SemanticLogging\obj\Debug\Microsoft.Practices.EnterpriseLibrary.SemanticLogging.dll
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\SemanticLogging\Src\SemanticLogging\obj\Debug\Microsoft.Practices.EnterpriseLibrary.SemanticLogging.pdb

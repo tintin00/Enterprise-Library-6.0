@@ -1,0 +1,8 @@
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.WPF.XML
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.WPF.dll
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.WPF.pdb
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\Validation\Src\Validation.Integration.WPF\obj\Debug\Validation.Integration.WPF.csprojResolveAssemblyReference.cache
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\Validation\Src\Validation.Integration.WPF\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.WPF.Properties.Resources.resources
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\Validation\Src\Validation.Integration.WPF\obj\Debug\Validation.Integration.WPF.csproj.GenerateResource.Cache
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\Validation\Src\Validation.Integration.WPF\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.WPF.dll
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\Validation\Src\Validation.Integration.WPF\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.Integration.WPF.pdb

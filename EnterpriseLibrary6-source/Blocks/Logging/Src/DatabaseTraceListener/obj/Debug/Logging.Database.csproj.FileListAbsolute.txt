@@ -1,0 +1,8 @@
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.Database.xml
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.Database.dll
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.Database.pdb
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\Logging\Src\DatabaseTraceListener\obj\Debug\Logging.Database.csprojResolveAssemblyReference.cache
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\Logging\Src\DatabaseTraceListener\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.Database.Configuration.DesignResources.resources
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\Logging\Src\DatabaseTraceListener\obj\Debug\Logging.Database.csproj.GenerateResource.Cache
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\Logging\Src\DatabaseTraceListener\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.Database.dll
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\Logging\Src\DatabaseTraceListener\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.Database.pdb

@@ -1,0 +1,13 @@
+﻿어셈블리 'D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\Logging\Tests\MsmqDistributor\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.MsmqDistributor.Tests.dll'을(를) 설치하고 있습니다.
+영향을 받는 매개 변수:
+   logtoconsole = false
+   logfile = D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\Logging\Tests\MsmqDistributor\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.MsmqDistributor.Tests.InstallLog
+   assemblypath = D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\Logging\Tests\MsmqDistributor\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.MsmqDistributor.Tests.dll
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\Logging\Tests\MsmqDistributor\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.MsmqDistributor.Tests.dll 어셈블리에서 RunInstallerAttribute.Yes 특성을 포함하는 공용 설치 관리자를 찾을 수 없습니다.
+어셈블리 'D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\Logging\Tests\MsmqDistributor\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.MsmqDistributor.Tests.dll'을(를) 커밋하고 있습니다.
+영향을 받는 매개 변수:
+   logtoconsole = false
+   logfile = D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\Logging\Tests\MsmqDistributor\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.MsmqDistributor.Tests.InstallLog
+   assemblypath = D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\Logging\Tests\MsmqDistributor\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.MsmqDistributor.Tests.dll
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\Logging\Tests\MsmqDistributor\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.MsmqDistributor.Tests.dll 어셈블리에서 RunInstallerAttribute.Yes 특성을 포함하는 공용 설치 관리자를 찾을 수 없습니다.
+설치 관리자가 없으므로 InstallState 파일을 제거합니다.

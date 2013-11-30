@@ -1,0 +1,31 @@
+﻿어셈블리 'D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\Logging\Tests\Logging\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.Tests.dll'을(를) 설치하고 있습니다.
+영향을 받는 매개 변수:
+   logtoconsole = false
+   logfile = D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\Logging\Tests\Logging\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.Tests.InstallLog
+   assemblypath = D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\Logging\Tests\Logging\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.Tests.dll
+WMI 스키마 설치: 시작
+어셈블리를 등록하고 있습니다. Microsoft.Practices.EnterpriseLibrary.Logging.Tests_SN__Version_6.0.0.0
+네임스페이스가 있는지 확인합니다. root\MicrosoftWmiNet
+클래스가 있는지 확인: root\MicrosoftWmiNet:WMINET_Instrumentation
+클래스가 있는지 확인: CREATING  root\MicrosoftWmiNet:WMINET_Instrumentation
+클래스가 있는지 확인: root\MicrosoftWmiNet:WMINET_InstrumentedNamespaces
+클래스가 있는지 확인: CREATING  root\MicrosoftWmiNet:WMINET_InstrumentedNamespaces
+클래스가 있는지 확인: root\MicrosoftWmiNet:WMINET_Naming
+클래스가 있는지 확인: CREATING  root\MicrosoftWmiNet:WMINET_Naming
+네임스페이스가 있는지 확인합니다. root\EnterpriseLibrary
+클래스가 있는지 확인: root\EnterpriseLibrary:WMINET_Instrumentation
+클래스가 있는지 확인: CREATING  root\EnterpriseLibrary:WMINET_Instrumentation
+클래스가 있는지 확인: root\EnterpriseLibrary:WMINET_InstrumentedAssembly
+클래스가 있는지 확인: CREATING  root\EnterpriseLibrary:WMINET_InstrumentedAssembly
+클래스가 있는지 확인: root\EnterpriseLibrary:MSFT_DecoupledProvider
+클래스가 있는지 확인: CREATING  root\EnterpriseLibrary:MSFT_DecoupledProvider
+클래스가 있는지 확인: root\EnterpriseLibrary:WMINET_ManagedAssemblyProvider
+클래스가 있는지 확인: CREATING  root\EnterpriseLibrary:WMINET_ManagedAssemblyProvider
+WMI 스키마 설치: 완료
+WMI 스키마 설치: 시작
+WMI 스키마 설치: 완료
+어셈블리 'D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\Logging\Tests\Logging\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.Tests.dll'을(를) 커밋하고 있습니다.
+영향을 받는 매개 변수:
+   logtoconsole = false
+   logfile = D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\Logging\Tests\Logging\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.Tests.InstallLog
+   assemblypath = D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\Logging\Tests\Logging\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.Tests.dll

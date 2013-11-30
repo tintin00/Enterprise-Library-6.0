@@ -1,0 +1,8 @@
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.xml
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.dll
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.pdb
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\Configuration\Src\EnvironmentalOverrides\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.Properties.Resources.resources
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\Configuration\Src\EnvironmentalOverrides\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.Configuration.DesignResources.resources
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\Configuration\Src\EnvironmentalOverrides\obj\Debug\Configuration.EnvironmentalOverrides.csproj.GenerateResource.Cache
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\Configuration\Src\EnvironmentalOverrides\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.dll
+D:\Workspace\Enterprise Library 6.0\EnterpriseLibrary6-source\Blocks\Configuration\Src\EnvironmentalOverrides\obj\Debug\Microsoft.Practices.EnterpriseLibrary.Configuration.EnvironmentalOverrides.pdb
